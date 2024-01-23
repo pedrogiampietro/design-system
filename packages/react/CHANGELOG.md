@@ -1,4 +1,10 @@
-# @ignite-ui/react
+# @pedrogiampietro-ignite-ui/react
+
+## 1.1.0
+
+### Minor Changes
+
+- finish all components
 
 ## 1.0.1
 
